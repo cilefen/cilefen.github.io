@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "One Week as a Provisional Drupal Core Committer"
+date:   2016-10-02 12:00:00
+categories: drupal
+---
+
+<img src="/assets/IMG_0022.jpg" alt="View of DrupalCon Triva Night" />
+
+Working in big open-source projects can be challenging. Sometimes the code is hard to understand, nothing seems to move forward, and everybody is arguing. At other times, it can be deeply rewarding. Your issues are committed, the documentation makes sense, and everyone is happy. But it is seldom <em>surprising</em>.
+
+Then last week, this happened:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please join me in welcoming <a href="https://twitter.com/cilefen">@cilefen</a> as a provisional committer for Drupal 8: <a href="https://t.co/BGeIXsbE6a">https://t.co/BGeIXsbE6a</a> <a href="https://twitter.com/hashtag/drupal?src=hash">#drupal</a></p>&mdash; Dries Buytaert (@Dries) <a href="https://twitter.com/Dries/status/781007614251589633">September 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Wow, right? Even though I knew in advance this would happen, it's still a bit of a shock. Here's a hint about how I feel: it's complicated. Below I will reflect on the first week in this role and think about what lies ahead.
+
+I really must set the stage with some context so you can understand what this week was like for me. I was <em>really</em> tired all last week at [DrupalCon Dublin](https://events.drupal.org/dublin2016). I mean <em>dog tired</em>. I mean <em>dead tired</em>. I mean, <em>I napped in public</em>.
+
+Incidentally: thank you @wunderkraut, you saved my life: 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you see bean bag chairs at <a href="https://twitter.com/DrupalConEur">@DrupalConEUR</a>, hug a <a href="https://twitter.com/Wunderkraut">@wunderkraut</a> friend. Thanks for sponsoring them, guys! <a href="https://twitter.com/hashtag/DrupalCon?src=hash">#DrupalCon</a> <a href="http://t.co/9ynEpVzB0G">pic.twitter.com/9ynEpVzB0G</a></p>&mdash; DrupalCon Dublin (@DrupalConEur) <a href="https://twitter.com/DrupalConEur/status/646972909769068544">September 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I know why. It is because I sleep like an idiot when crossing time zones. There will never be a time when I am proficient in dealing with jet lag. Over time I have decided that in situations like this it is best to push through and make the most of things. I must avoid microphones at all cost because when I am tired and am without a script I tend to [talk nonsense](https://www.youtube.com/watch?v=6GjD9tKPywY). I may have done some of that. I am constantly brainstorming and I sometimes contradict myself on the way to an idea. That is why small group discussions are better for me. Fortunately, most of the first week was small meetings. Speaking of which, these are the meetings I attended:
+
+  * Future of PHPUnit and BrowserTestBase
+  * Entity Field API major issue triage
+  * Core JavaScript maintenance: about the future of JavaScript in Drupal
+  * Ideation part of Agile process
+  * Learning from Symfony about backward compatibility: with [Nicolas Grekas](https://twitter.com/nicolasgrekas) of the Symfony core team sharing info
+  * Workflow initiative: I am so impressed with the work going on here
+  * Views major issue triage
+
+And it was at these meetings that I started to get a feel for the requirements of being a core committer. It requires information parsing. There is a lot of reading, listening, and understanding to be done. It requires judgment. Your opinion is needed, and decisions are made. It requires trust. No one is the expert in everything. You must trust the contributors and maintainers.
+
+All of these meetings were attended by super-smart and accomplished developers. It was awesome and overwhelming (see "tired" above). I tweeted the same:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was honored to meet with some truly brilliant people <a href="https://twitter.com/DrupalConEur">@DrupalConEur</a>. You know who you are!</p>&mdash; cilefen (@cilefen) <a href="https://twitter.com/cilefen/status/782670429416747008">October 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The next steps for me involve:
+
+  * Helping [release 8.2.0](https://www.drupal.org/core/release-cycle-overview).
+  * Becoming versed in the release cycle.
+  * Getting access to and executing analytics reports developed by the brilliant [@xjm](https://www.drupal.org/u/xjm) on the state of the core issue queue. Maybe I'll find ways to extend them for new insights.
+  * Obtaining commit access.
+
+See how "commit access" is the last thing listed? That is not an accident. As a release manager, the emphasis is on planning. I am comfortable to wait a little while before I commit code. Am I nervous about my first commit? Yes, I am. That's a <em>good thing</em>.
+
+If you have read this far, you probably care about this project at least as much as I do. It is a big responsibility. I want to do it right. Fortunately, there are policies and procedures regarding commits. Understand that I take these responsibilities seriously. With every action I take, I will be focusing on what benefits everyone in the Drupal community.
+
+I almost forgot one more important next step:
+
+  * Think about long-term goals. That's for a future article.
+

@@ -1,0 +1,13 @@
+# Site settings
+title: cilefen
+description: > # this means to ignore newlines until "baseurl:"
+  “Experience, the name men give to their mistakes.” — Oscar Wilde
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cilefen.github.io" # the base hostname & protocol for your site
+social:
+  - {icon: twitter, label: Twitter, url: "https://twitter.com/cilefen"}
+  - {icon: drupal, label: Drupal, url: "https://www.drupal.org/u/cilefen"}
+  - {icon: github, label: GitHub, url: "https://github.com/cilefen"}
+
+# Build settings
+markdown: kramdown
