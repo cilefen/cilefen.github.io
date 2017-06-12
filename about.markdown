@@ -9,7 +9,7 @@ date:   2016-09-23 12:00:00
 <ul>
 {% for item in site.social %}
   <li>
-    <a class="post-link" href="{{ item.url }}">
+    <a class="post-link" href="{{ item.url }}" rel="me">
       <span class="icon  icon--{{ item.icon }}">
         <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
       </span>
