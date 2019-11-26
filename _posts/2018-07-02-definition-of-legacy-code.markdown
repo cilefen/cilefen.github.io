@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Toward a Definition of Legacy Code"
-date:   2019-11-26 00:00:00
+date:   2018-07-02 00:00:00
 categories: php
 ---
+
+_Updated 2019-11-29_
 
 ## Opinions
 
