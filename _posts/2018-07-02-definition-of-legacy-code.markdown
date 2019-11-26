@@ -43,5 +43,5 @@ These characteristics are probably familiar to anyone who has had to deal with a
 <hr>
 
 [^1]: Feathers, Michael. “Working Effectively with Legacy Code: Michael Feathers: 8601400968741: Amazon.com: Books.” Amazon, Prentice Hall, <a href="https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052">www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052</a>.
-[^2]: Prabhakar, R. (2019, November 26). The Birth of Legacy Software – How Change Aversion Feeds On Itself. Retrieved from https://software.rajivprab.com/2019/11/25/the-birth-of-legacy-software-how-change-aversion-feeds-on-itself/.
+[^2]: Prabhakar, R. (2019, November 26). The Birth of Legacy Software – How Change Aversion Feeds On Itself. Retrieved from <a href="https://software.rajivprab.com/2019/11/25/the-birth-of-legacy-software-how-change-aversion-feeds-on-itself/">https://software.rajivprab.com/2019/11/25/the-birth-of-legacy-software-how-change-aversion-feeds-on-itself/</a>.
 [^3]: Jones, Paul M. _Modernizing Legacy Applications In PHP_. Leanpub, 2 Sept. 2013, <a href="https://leanpub.com/mlaphp">leanpub.com/mlaphp</a>.
